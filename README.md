@@ -1,4 +1,4 @@
-🌱 Currently learning SCRUM,Agile
+🌱 Currently learning SCRUM and Agile development
 
 #### Some of the projects
 * https://pgr209-exam-socialbuzz-user.azurewebsites.net/
