@@ -1,7 +1,7 @@
 🌱 Currently learning SCRUM and Agile development
 
 #### Some of the projects
-* https://pgr209-exam-socialbuzz-user.azurewebsites.net/
+* https://github.com/freebattie/pg209exam-freebattie
 * https://github.com/freebattie/webdevExamen
 * https://github.com/freebattie/Enigma
 * https://github.com/freebattie/SoftwareDesignExam
