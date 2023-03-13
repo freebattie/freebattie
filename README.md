@@ -8,9 +8,8 @@
 * https://github.com/freebattie/freebattie.github.io
 <br>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats2-lemon.vercel.app/api?username=freebattie&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats2-lemon.vercel.app/api/top-langs/?username=freebattie&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-<br>
+[![Top Langs](https://github-readme-stats2-freebattie.vercel.app/api/top-langs/?username=freebattie)](https://github.com/freebattie/github-readme-stats)
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <br>
