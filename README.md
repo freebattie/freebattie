@@ -1,6 +1,7 @@
 🌱 Currently learning SCRUM, Agile and IOT development
 
 #### Some of the projects
+* https://github.com/freebattie/EdgeToAppExam
 * https://github.com/freebattie/pg209exam-freebattie
 * https://github.com/freebattie/webdevExamen
 * https://github.com/freebattie/Enigma
