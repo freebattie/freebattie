@@ -1,4 +1,4 @@
-🌱 Currently learning SCRUM, Agile and IOT development
+🌱 Currently learning Devops, microservices, Agile and IOT development
 
 #### Some of the projects
 * https://github.com/freebattie/EdgeToAppExam
